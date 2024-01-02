@@ -18,6 +18,6 @@ Interval Bounds Calculation:
 Assign the initial interval [0, 1) to represent the entire probability space.
 Divide the interval based on the equal probabilities of A and B.
 Update the interval according to each symbol in the input string.
-Output Display:
 
+Output Display:
 Integrate text areas within the GUI to dynamically display the lower and higher bounds of the final interval.
